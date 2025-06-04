@@ -71,9 +71,7 @@ ol {
   width: 711px;
   height: 360px;
   margin-top: 89px;
-  /* margin-bottom: 30px; */
   position: relative;
-  /* bottom: 16px; */
 }
 
 .result__video {
@@ -125,7 +123,7 @@ ol {
 }
 
 .search-form__textfield {
-   font-family: "FiraSansCondensed";
+  font-family: "FiraSansCondensed";
   background: none;
   border-right: none;
   color: rgb(255, 255, 255, 1);
@@ -272,8 +270,7 @@ ol {
   overflow: hidden;
 }
 
-.content__video-card:hover
-  > .content__video-card-description-container {
+.content__video-card:hover > .content__video-card-description-container {
   text-decoration: underline;
 }
 
@@ -300,7 +297,6 @@ ol {
   -webkit-line-clamp: 3;
   line-clamp: 3;
   overflow: hidden;
-
 }
 
 .content__video-card-thumbnail {
